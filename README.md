@@ -1,6 +1,6 @@
 # FingerTap
 
-Rhythm game developed for the Graphic animation course of the Technologies and Information Systems course for the Web licensed at ESMAD (School of Arts and Design Media).
+Rhythm game developed for the Graphic Animation subject of the Technologies and Information Systems for the Web course, licensed at ESMAD (School of Arts and Design Media).
 
 
 ## Technologies Used
