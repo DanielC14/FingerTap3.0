@@ -13,6 +13,9 @@ Rhythm game developed for the Graphic Animation subject of the Technologies and 
 * [Song](https://www.youtube.com/watch?v=UBVoONryE3s) - Youtube Link
 * Images from Google Images
 
+## Play
+* [Click to play](https://cdn.rawgit.com/DanielC14/FingerTap/5f046f17/index.html)
+
 ## Screenshots
 
 ### Homepage
