@@ -26,11 +26,11 @@ Rhythm game developed for the Graphic animation course of the Technologies and I
 
 ### Difficulties
 
-#### *Easy
+#### * Easy
 ![Home Menu](screenshots/GMEasy.PNG?raw=true)
 
-#### *Medium
+#### * Medium
 ![Home Menu](screenshots/GMMedium.PNG?raw=true)
 
-#### *Hard
+#### * Hard
 ![Home Menu](screenshots/GMHard.PNG?raw=true)
