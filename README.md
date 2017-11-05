@@ -6,7 +6,7 @@ Rhythm game developed for the Graphic animation course of the Technologies and I
 ## Technologies Used
 
 * JavaScript
-* HTML <canvas>
+* HTML ´´´<canvas>
 
 ## Resources Used
 
