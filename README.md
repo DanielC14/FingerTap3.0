@@ -14,4 +14,22 @@ Rhythm game developed for the Graphic animation course of the Technologies and I
 
 ## Screenshots
 
+### Homepage
 ![Home Menu](screenshots/HomeMenu.PNG?raw=true)
+
+### How To Play
+![Home Menu](screenshots/HowToPlay.PNG?raw=true)
+
+### Game Over
+![Home Menu](screenshots/GameOver.PNG?raw=true)
+
+### Dificulties
+
+#### Easy
+![Home Menu](screenshots/GMEasy.PNG?raw=true)
+
+#### Medium
+![Home Menu](screenshots/GMMedium.PNG?raw=true)
+
+#### Hard
+![Home Menu](screenshots/GMHard.PNG?raw=true)
