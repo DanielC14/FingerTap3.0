@@ -27,10 +27,16 @@ Rhythm game developed for the Graphic animation course of the Technologies and I
 ### Difficulties
 
 * Easy
+ - 25 Keys
+ - 1x Speed
 ![Home Menu](screenshots/GMEasy.PNG?raw=true)
 
 * Medium
+ - 50 Keys
+ - 3x Speed
 ![Home Menu](screenshots/GMMedium.PNG?raw=true)
 
 * Hard
+ - 75 Keys
+ - 5x Speed
 ![Home Menu](screenshots/GMHard.PNG?raw=true)
