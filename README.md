@@ -14,4 +14,4 @@ Rhythm game developed for the Graphic animation course of the Technologies and I
 
 ## Screenshots
 
-![Home Menu](screenshots/HomeMenu.PNG)
+![Home Menu](screenshots/HomeMenu.PNG?raw=true)
