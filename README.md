@@ -3,8 +3,8 @@
 Rhythm game developed for the Graphic Animation subject of the Technologies and Information Systems for the Web course, licensed at ESMAD (Superior School of Media Arts and Design).
 
 Made by:
-* @DanielC14
-* @FilipaNora
+* [DanielC14](https://github.com/DanielC14)
+* [FilipaNora](https://github.com/FilipaNora)
 
 
 ## Technologies Used
